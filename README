@@ -1,0 +1,3 @@
+How to run code
+  javac DiningPhilosopher.java
+  java DiningPhilosopher {running time}
